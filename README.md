@@ -1,4 +1,4 @@
-# Go. Моё изучение языка
+# Go. Мой процесс изучения языка
 
 ![Golang](https://raw.githubusercontent.com/BeautifulDirt/golang-study/main/golang.jpg)
 
