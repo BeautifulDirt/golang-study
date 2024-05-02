@@ -1,6 +1,6 @@
 # Go. Моё изучение языка
 
-<img src="https://raw.githubusercontent.com/BeautifulDirt/golang-study/main/golang.jpg" alt="golang" height="320" />
+![Golang](https://raw.githubusercontent.com/BeautifulDirt/golang-study/main/golang.jpg)
 
 
 **[Go](https://go.dev/)** - это компилируемый многопоточный язык системного программирования с открытым исходным кодом, над созданием которого в компании Google трудились Роберт Гриземер, Кен Томсон и Роб Пайк.
